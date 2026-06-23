@@ -21,3 +21,11 @@ Problems solved: 0
 ---
 
 > "The expert in anything was once a beginner."
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/aniieee-p/Learning_Journey/tree/master/0180-consecutive-numbers) |
+<!---LeetCode Topics End-->
