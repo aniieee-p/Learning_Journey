@@ -28,4 +28,12 @@ Problems solved: 0
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/aniieee-p/Learning_Journey/tree/master/0180-consecutive-numbers) |
+## Math
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
