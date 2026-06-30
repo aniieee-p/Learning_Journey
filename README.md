@@ -36,4 +36,8 @@ Problems solved: 0
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Array
+|  |
+| ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/aniieee-p/Learning_Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 <!---LeetCode Topics End-->
