@@ -49,9 +49,14 @@ Problems solved: 0
 | [0217-contains-duplicate](https://github.com/aniieee-p/Learning_Journey/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/aniieee-p/Learning_Journey/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/aniieee-p/Learning_Journey/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0442-find-all-duplicates-in-an-array) |
+## String
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/aniieee-p/Learning_Journey/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
