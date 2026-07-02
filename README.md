@@ -46,6 +46,7 @@ Problems solved: 0
 | [1394-find-lucky-integer-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aniieee-p/Learning_Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aniieee-p/Learning_Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aniieee-p/Learning_Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Problems solved: 0
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aniieee-p/Learning_Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aniieee-p/Learning_Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -88,8 +90,18 @@ Problems solved: 0
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aniieee-p/Learning_Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aniieee-p/Learning_Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aniieee-p/Learning_Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aniieee-p/Learning_Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aniieee-p/Learning_Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aniieee-p/Learning_Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
