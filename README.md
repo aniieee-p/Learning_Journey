@@ -28,6 +28,7 @@ Problems solved: 0
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/aniieee-p/Learning_Journey/tree/master/0180-consecutive-numbers) |
+| [0584-find-customer-referee](https://github.com/aniieee-p/Learning_Journey/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/aniieee-p/Learning_Journey/tree/master/1757-recyclable-and-low-fat-products) |
 ## Math
 |  |
