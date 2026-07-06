@@ -44,6 +44,7 @@ Problems solved: 0
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aniieee-p/Learning_Journey/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/aniieee-p/Learning_Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -55,6 +56,7 @@ Problems solved: 0
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aniieee-p/Learning_Journey/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/aniieee-p/Learning_Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0442-find-all-duplicates-in-an-array) |
