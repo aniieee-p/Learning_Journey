@@ -49,6 +49,7 @@ Problems solved: 0
 | [0219-contains-duplicate-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1288-remove-covered-intervals](https://github.com/aniieee-p/Learning_Journey/tree/master/1288-remove-covered-intervals) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aniieee-p/Learning_Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aniieee-p/Learning_Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -70,6 +71,7 @@ Problems solved: 0
 | [0217-contains-duplicate](https://github.com/aniieee-p/Learning_Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aniieee-p/Learning_Journey/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1288-remove-covered-intervals](https://github.com/aniieee-p/Learning_Journey/tree/master/1288-remove-covered-intervals) |
 ## String
 |  |
 | ------- |
