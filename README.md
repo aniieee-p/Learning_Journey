@@ -49,6 +49,7 @@ Problems solved: 0
 | [0219-contains-duplicate-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/aniieee-p/Learning_Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1288-remove-covered-intervals](https://github.com/aniieee-p/Learning_Journey/tree/master/1288-remove-covered-intervals) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aniieee-p/Learning_Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -81,6 +82,7 @@ Problems solved: 0
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/aniieee-p/Learning_Journey/tree/master/0643-maximum-average-subarray-i) |
 ## Counting
 |  |
 | ------- |
