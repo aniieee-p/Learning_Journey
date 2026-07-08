@@ -51,6 +51,7 @@ Problems solved: 0
 | [0219-contains-duplicate-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/aniieee-p/Learning_Journey/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/aniieee-p/Learning_Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1288-remove-covered-intervals](https://github.com/aniieee-p/Learning_Journey/tree/master/1288-remove-covered-intervals) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -66,6 +67,7 @@ Problems solved: 0
 | [0242-valid-anagram](https://github.com/aniieee-p/Learning_Journey/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/aniieee-p/Learning_Journey/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/aniieee-p/Learning_Journey/tree/master/0771-jewels-and-stones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Sorting
@@ -127,4 +129,9 @@ Problems solved: 0
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aniieee-p/Learning_Journey/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/aniieee-p/Learning_Journey/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/aniieee-p/Learning_Journey/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
