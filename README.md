@@ -39,6 +39,7 @@ Problems solved: 0
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Problems solved: 0
 | [0242-valid-anagram](https://github.com/aniieee-p/Learning_Journey/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/aniieee-p/Learning_Journey/tree/master/0771-jewels-and-stones) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aniieee-p/Learning_Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,4 +136,8 @@ Problems solved: 0
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aniieee-p/Learning_Journey/tree/master/0496-next-greater-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
