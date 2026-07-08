@@ -78,6 +78,7 @@ Problems solved: 0
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aniieee-p/Learning_Journey/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/aniieee-p/Learning_Journey/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/aniieee-p/Learning_Journey/tree/master/0771-jewels-and-stones) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aniieee-p/Learning_Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -122,4 +123,8 @@ Problems solved: 0
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aniieee-p/Learning_Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aniieee-p/Learning_Journey/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
