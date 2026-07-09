@@ -3,7 +3,7 @@ class Solution {
         int uniquePointer = 1;
         int returnValue = 1;
         for(int i = 1; i<nums.length;i++) {
-            if(nums[i]!=nums[i-1]) {
+            if(nums[i-1]!=nums[i]) {
                 nums[uniquePointer] = nums[i];
                 uniquePointer++;
                 returnValue++;
