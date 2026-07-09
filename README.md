@@ -48,6 +48,7 @@ Problems solved: 0
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aniieee-p/Learning_Journey/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/aniieee-p/Learning_Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -140,4 +141,8 @@ Problems solved: 0
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
