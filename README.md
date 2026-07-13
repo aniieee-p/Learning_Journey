@@ -133,6 +133,7 @@ Problems solved: 0
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aniieee-p/Learning_Journey/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/aniieee-p/Learning_Journey/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/aniieee-p/Learning_Journey/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -146,4 +147,12 @@ Problems solved: 0
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/aniieee-p/Learning_Journey/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/aniieee-p/Learning_Journey/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
