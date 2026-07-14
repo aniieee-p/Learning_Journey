@@ -85,6 +85,7 @@ Problems solved: 0
 | ------- |
 | [0020-valid-parentheses](https://github.com/aniieee-p/Learning_Journey/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/aniieee-p/Learning_Journey/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/aniieee-p/Learning_Journey/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/aniieee-p/Learning_Journey/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/aniieee-p/Learning_Journey/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aniieee-p/Learning_Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -150,6 +151,7 @@ Problems solved: 0
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0344-reverse-string](https://github.com/aniieee-p/Learning_Journey/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/aniieee-p/Learning_Journey/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
