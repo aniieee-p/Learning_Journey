@@ -167,4 +167,12 @@ Problems solved: 0
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/aniieee-p/Learning_Journey/tree/master/0844-backspace-string-compare) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/aniieee-p/Learning_Journey/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/aniieee-p/Learning_Journey/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
