@@ -84,6 +84,7 @@ Problems solved: 0
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aniieee-p/Learning_Journey/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/aniieee-p/Learning_Journey/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aniieee-p/Learning_Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aniieee-p/Learning_Journey/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/aniieee-p/Learning_Journey/tree/master/0771-jewels-and-stones) |
@@ -151,6 +152,7 @@ Problems solved: 0
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/aniieee-p/Learning_Journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/aniieee-p/Learning_Journey/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/aniieee-p/Learning_Journey/tree/master/0844-backspace-string-compare) |
 ## Design
