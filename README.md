@@ -50,6 +50,7 @@ Problems solved: 0
 | ------- |
 | [0001-two-sum](https://github.com/aniieee-p/Learning_Journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/aniieee-p/Learning_Journey/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/aniieee-p/Learning_Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -152,6 +153,7 @@ Problems solved: 0
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/aniieee-p/Learning_Journey/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/aniieee-p/Learning_Journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/aniieee-p/Learning_Journey/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/aniieee-p/Learning_Journey/tree/master/0844-backspace-string-compare) |
