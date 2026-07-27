@@ -52,6 +52,7 @@ Problems solved: 0
 | [0001-two-sum](https://github.com/aniieee-p/Learning_Journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aniieee-p/Learning_Journey/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/aniieee-p/Learning_Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aniieee-p/Learning_Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -67,6 +68,7 @@ Problems solved: 0
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aniieee-p/Learning_Journey/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/aniieee-p/Learning_Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aniieee-p/Learning_Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/aniieee-p/Learning_Journey/tree/master/0242-valid-anagram) |
@@ -78,6 +80,7 @@ Problems solved: 0
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aniieee-p/Learning_Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aniieee-p/Learning_Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aniieee-p/Learning_Journey/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -102,6 +105,7 @@ Problems solved: 0
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aniieee-p/Learning_Journey/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Binary Search
 |  |
@@ -180,4 +184,8 @@ Problems solved: 0
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/aniieee-p/Learning_Journey/tree/master/0206-reverse-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aniieee-p/Learning_Journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
