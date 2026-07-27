@@ -8,14 +8,17 @@ from Visits v
 Left join Transactions t
 ON v.visit_id = t.visit_id
 
-where t.transaction_id IS NULL
+where amount IS NULL
 
-group by customer_id;
-
-
+group by v.customer_id;
 
 
 
+-- select visits.customer_id, count(*) as count_no_trans
+-- from visits left join Transactions
+-- on visits.visit_id = transactions.visit_id
+-- where amount is null
+-- group by visits.customer_id;
 
 
 
