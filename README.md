@@ -40,6 +40,7 @@ Problems solved: 0
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0189-rotate-array) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -53,6 +54,7 @@ Problems solved: 0
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aniieee-p/Learning_Journey/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/aniieee-p/Learning_Journey/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/aniieee-p/Learning_Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -160,6 +162,7 @@ Problems solved: 0
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aniieee-p/Learning_Journey/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/aniieee-p/Learning_Journey/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/aniieee-p/Learning_Journey/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/aniieee-p/Learning_Journey/tree/master/0844-backspace-string-compare) |
 ## Design
