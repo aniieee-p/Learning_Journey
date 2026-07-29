@@ -48,6 +48,7 @@ Problems solved: 0
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aniieee-p/Learning_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
 |  |
@@ -55,6 +56,7 @@ Problems solved: 0
 | [0001-two-sum](https://github.com/aniieee-p/Learning_Journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aniieee-p/Learning_Journey/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aniieee-p/Learning_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/aniieee-p/Learning_Journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/aniieee-p/Learning_Journey/tree/master/0217-contains-duplicate) |
