@@ -72,6 +72,7 @@ Problems solved: 0
 | [0189-rotate-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/aniieee-p/Learning_Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/0219-contains-duplicate-ii) |
+| [0274-h-index](https://github.com/aniieee-p/Learning_Journey/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/aniieee-p/Learning_Journey/tree/master/0496-next-greater-element-i) |
@@ -100,6 +101,7 @@ Problems solved: 0
 | [0169-majority-element](https://github.com/aniieee-p/Learning_Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aniieee-p/Learning_Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aniieee-p/Learning_Journey/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/aniieee-p/Learning_Journey/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1288-remove-covered-intervals](https://github.com/aniieee-p/Learning_Journey/tree/master/1288-remove-covered-intervals) |
 ## String
@@ -213,4 +215,8 @@ Problems solved: 0
 | [0045-jump-game-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aniieee-p/Learning_Journey/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/aniieee-p/Learning_Journey/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
