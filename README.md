@@ -48,6 +48,7 @@ Problems solved: 0
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/aniieee-p/Learning_Journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -74,6 +75,7 @@ Problems solved: 0
 | [0217-contains-duplicate](https://github.com/aniieee-p/Learning_Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/aniieee-p/Learning_Journey/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/aniieee-p/Learning_Journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/aniieee-p/Learning_Journey/tree/master/0496-next-greater-element-i) |
@@ -91,6 +93,7 @@ Problems solved: 0
 | [0217-contains-duplicate](https://github.com/aniieee-p/Learning_Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aniieee-p/Learning_Journey/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/aniieee-p/Learning_Journey/tree/master/0242-valid-anagram) |
+| [0380-insert-delete-getrandom-o1](https://github.com/aniieee-p/Learning_Journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aniieee-p/Learning_Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/aniieee-p/Learning_Journey/tree/master/0496-next-greater-element-i) |
@@ -189,6 +192,7 @@ Problems solved: 0
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aniieee-p/Learning_Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aniieee-p/Learning_Journey/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/aniieee-p/Learning_Journey/tree/master/0380-insert-delete-getrandom-o1) |
 ## Queue
 |  |
 | ------- |
@@ -220,4 +224,8 @@ Problems solved: 0
 |  |
 | ------- |
 | [0274-h-index](https://github.com/aniieee-p/Learning_Journey/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/aniieee-p/Learning_Journey/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
