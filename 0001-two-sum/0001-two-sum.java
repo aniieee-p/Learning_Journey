@@ -15,9 +15,9 @@ class Solution {
         // create a map to store key-value pairs
         // key:nums[i], value:i
         HashMap<Integer, Integer> map = new HashMap<>();
-        for(int i =0; i<nums.length;i++){
-            map.put(nums[i], i);
-        }
+        // for(int i =0; i<nums.length;i++){
+        //     map.put(nums[i], i);
+        // }
         // for each index calculate diff
         for(int i =0; i<nums.length;i++){
             // cal diff
@@ -26,12 +26,10 @@ class Solution {
             Integer j = map.get(diff);
             // if diff is found, get j
             if(j != null) {
-                // check if i != j
-                if( i != j){
                 // return i,j as answer
                 return new int[]{i,j};
-                }
-             }
+            }
+            map.put(nums[i], i);
         }
         return null;
     }
